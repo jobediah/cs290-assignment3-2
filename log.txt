@@ -1,0 +1,23 @@
+You log goes in this  file.
+
+Start: Sun, 21 Jan 2015 16:00:00 -0800
+End; Thu, 21 Jan 2015 18:00:00 -0800 
+Tasks: Tried to set up framework for project. 
+
+Start: Sun, 21 Jan 2015 19:30:00 -0800
+End; Thu, 21 Jan 2015 21:00:00 -0800 
+Tasks: Got help with setting up AJAX. 
+
+Start: Mon, 21 Jan 2015 21:30:00 -0700
+End: Mon, 21 Jan 2015 24:00:00 -0700 
+Tasks: Successfully calling on server and printing gist sorted by languages to screen
+in table form.
+
+Start: Mon, 22 Jan 2015 08:00:00 -0700
+End: Mon, 22 Jan 2015 22:00:00 -0700 (minus a 2 hr break)
+Tasks: Missed work, went nuts, cursed the Gods, got most of the functionality working
+
+Start: Tue, 23 Jan 2015 10:20:00 -0700
+End: Tue, 23 Jan 2015 12:21:02 -0700 
+Tasks: With a sense of renewed clarity, polished look and added the ability of program
+to refresh lists.
