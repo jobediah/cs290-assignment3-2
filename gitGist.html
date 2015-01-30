@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8">
+            <title>Gist of GIST</title>
+            <script src = 'assign3.js'></script>
+            </head>
+    <body>
+        	
+            <p>Please select the number of result pages to display:</p>
+           
+            <select id="pages">
+                <option value="1">1</option>
+                <option value="2">2</option>
+                <option value="3">3</option>
+                <option value="4">4</option>
+                <option value="5">5</option>
+            </select>
+            <p></p>
+            <p>Please select the language you'd like to be display.</p>
+            Select between:<br>
+            <form>
+                <input type="checkbox" name="lang" value="py">Python
+                <input type="checkbox" name="lang" value="json">JSON
+                <input type="checkbox" name="lang" value="js">Javascript
+                <input type="checkbox" name="lang" value="sql">SQL
+            </form>
+            <input type="button" value="Search" onclick="startUp()">
+        	<div id="favorites_list"></div>
+        	<div id="search_list"></div>
+        
+    </body>
+</html>
